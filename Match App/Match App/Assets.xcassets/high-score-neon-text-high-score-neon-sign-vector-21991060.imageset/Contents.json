@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "high-score-neon-text-high-score-neon-sign-vector-21991060.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
